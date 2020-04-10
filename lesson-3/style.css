@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+
+p {
+    color: LightYellow;
+    font-size: 25px;
+}
+
+a {
+    color: red;
+}
+
+button {
+    background-color: black;
+    color: whitesmoke;
+}
