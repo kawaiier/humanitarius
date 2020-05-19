@@ -1,0 +1,25 @@
+body {
+    margin: auto 0;
+    font-family: Helvetica;
+}
+
+header{
+    background-color: #e5a0d3;
+    color: white;
+    padding: 2em;
+    text-align: center;
+}
+
+.content {
+    color: #2740c8;
+    margin: 2em;
+}
+
+footer {
+    width: 100%
+    display: inline-block;
+    text-align: center;
+    color: white;
+    background-color: #35c5a1;
+    padding: 1em;
+}
