@@ -1,0 +1,30 @@
+body {
+    font-family: Helvetica;
+    background-color: #2740c8;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.work {
+    background-color: #35c5a1;
+    padding: 3em;
+    margin: 3em;
+    box-shadow: 4px 4px 5px #fefc05;
+    color: whitesmoke;
+    font-size: 1.5em;
+    line-height: 2em;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: lighter;
+    box-shadow: 1px 1px 1px #fefc05;
+    padding: 10px;
+}
+
+a:hover {
+    color: #fefc05;
+}
