@@ -42,7 +42,7 @@ export default function Hero() {
           {/* Image - Right Side */}
           <div className="relative h-[500px] md:h-[600px] w-full max-w-[400px] mx-auto">
             <Image
-              src="/images/sergei.jpg"
+              src="/images/sergei.JPG"
               alt="Sergei"
               fill
               className="object-cover object-center rounded-2xl shadow-2xl"
